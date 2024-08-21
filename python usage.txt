@@ -1,0 +1,6 @@
+I used python as a backend tech for the user authentication of restaurant website.
+How to run app.py?
+First, Install flask in IDE.
+Then write the command "python app.py" in your IDE.
+Then use the address generated in browser to use the website.
+Python used in this website creates a local database for storing the user credentials for authentication.
